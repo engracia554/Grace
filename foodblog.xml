@@ -1,0 +1,26 @@
+<food_blogging_site>
+   <post>
+      <title>Delicious Italian Pasta</title>
+      <author>foodie4life</author>
+      <timestamp>2024-04-12T11:15:00Z</timestamp>
+      <content>Indulged in some mouth-watering Italian pasta today! Perfectly cooked al dente pasta with rich tomato sauce and fresh basil. Simply irresistible!</content>
+      <rating>4.9</rating>
+      <likes>120</likes>
+      <comments>25</comments>
+      <hashtags>#food #italian</hashtags>
+      <mentions>@italianchef</mentions>
+      <recipe>Spaghetti Marinara</recipe>
+   </post>
+   <post>
+      <title>Exploring Street Food in Bangkok</title>
+      <author>streetfoodlover</author>
+      <timestamp>2024-04-11T14:00:00Z</timestamp>
+      <content>Spent the day exploring the vibrant street food scene in Bangkok! From Pad Thai to Tom Yum, each dish was bursting with flavors. A culinary adventure like no other!</content>
+      <rating>4.8</rating>
+      <likes>90</likes>
+      <comments>15</comments>
+      <hashtags>#streetfood #bangkok</hashtags>
+      <mentions>@thaichef</mentions>
+      <recipe>Pad Thai</recipe>
+   </post>
+</food_blogging_site>
